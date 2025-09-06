@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazlan</h1>
-- 🌱 I’m currently learning Java****
+- 🌱 I’m currently learning Java
 
 - 💬 Ask me about **C++,C, Python, Java**
 
